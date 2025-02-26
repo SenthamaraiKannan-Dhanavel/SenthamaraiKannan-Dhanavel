@@ -7,11 +7,9 @@
 ## 🚀 About Me
 
 - 🎓 MS in Computer Science @ UTSA
-- 💻 Software Engineer Intern @ ECU
 - 🌱 Currently exploring Next.js, TypeScript & Django
 - 🎯 Love building user-friendly, scalable applications
 - 💡 Believe in writing clean, efficient code
-- ⚡ Fun fact: I once automated 150+ test scripts in 3 months as a new grad to save a critical project!
 
 ## 🛠️ Tech Stack 
 
@@ -52,12 +50,6 @@ const SenthamaraiKannan = {
 }
 ```
 
-## 💼 Experience Highlights
-
-- Built full-stack e-learning platform with Next.js, React, and TypeScript
-- Developed RESTful APIs using Django and PostgreSQL
-- Improved application performance by 15% at CaratLane
-
 ## 🔥 Recent Projects
 
 ### 🏥 Smart Healthcare Appointment System
@@ -70,12 +62,6 @@ React-based application with distributed storage
 - Web scraping with Scrapy
 - Real-time search functionality
 - Hybrid database architecture (SQL + NoSQL)
-
-## 🏆 Achievements
-
-- 🥈 2nd Place - CaratLane Hackathon '21
-- 🌟 "ACE of CaratLane" Award Winner
-- 🎓 Indian Student Association Scholarship Recipient
 
 ## 🌱 Currently Learning
 
