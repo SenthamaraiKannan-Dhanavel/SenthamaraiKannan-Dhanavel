@@ -16,21 +16,22 @@
 ```javascript
 const SenthamaraiKannan = {
     core: {
-        languages: ["🐍 Python", "⚡ JavaScript", "💪 TypeScript", "☕ Java"],
-        web: ["📄 HTML", "🎨 CSS", "📊 SQL"],
+        languages: ["🐍 Python", "⚡ JavaScript", "💪 TypeScript", "☕ Java", "📜 JavaScript (ES6+)"],
+        web: ["📄 HTML", "🎨 CSS", "📊 SQL", "🌐 HTML5", "🎨 CSS3"],
         systems: ["⚙️ C", "🔌 C++"]
     },
     
     frontend: {
-        frameworks: ["⚛️ React", "▲ Next.js", "🅰️ Angular.js"],
+        frameworks: ["⚛️ React", "▲ Next.js", "🅰️ Angular"],
         styling: ["🌊 Tailwind CSS", "🎯 Bootstrap"],
-        libraries: ["📊 D3.js", "🎯 jQuery", "🔄 Axios"]
+        libraries: ["📊 D3.js", "🎯 jQuery", "🔄 Axios", "🔄 Redux"]
     },
     
     backend: {
-        frameworks: ["🎯 Django", "🟢 Node.js", "🚂 Express"],
+        frameworks: ["🎯 Django", "🟢 Node.js", "🚂 Express", "🍃 Spring Boot"],
         tools: ["🥬 Celery", "☕ Mocha"],
-        scraping: ["🕷️ Scrapy"]
+        scraping: ["🕷️ Scrapy"],
+        apis: ["🌐 RESTful APIs", "🔗 GraphQL"]
     },
     
     data: {
@@ -41,8 +42,21 @@ const SenthamaraiKannan = {
     
     devOps: {
         containers: ["🐳 Docker", "☸️ Kubernetes"],
-        cicd: ["🌿 Git", "🎯 Jira"],
-        testing: ["📬 Postman", "🔨 JMeter", "🔒 Burp Suite"]
+        cicd: ["🌿 Git", "🎯 Jira", "🔄 Jenkins", "🏗️ Terraform", "🔄 CircleCI", "🔄 CI/CD"],
+        testing: ["📬 Postman", "🔨 JMeter", "🔒 Burp Suite", "🧪 JUnit", "🃏 Mockito", "🃏 Jest", "🌐 Selenium", "🥒 Cucumber"],
+        cloud: ["☁️ AWS (EC2, S3, RDS, Lambda)"]
+    },
+
+    projectManagement: {
+        tools: ["🎯 JIRA", "📋 Trello"]
+    },
+
+    versionControl: {
+        tools: ["🐙 GitHub", "🌿 Git"]
+    },
+
+    buildTools: {
+        tools: ["🏗️ Maven"]
     },
 
     editor: "💻 VS Code ⚡",
@@ -50,7 +64,15 @@ const SenthamaraiKannan = {
 }
 ```
 
+
 ## 🔥 Recent Projects
+
+### 🔍 Job Info Extractor
+- Chrome extension for extracting job data from websites
+- Seamless integration with Google Sheets API
+- OAuth2 authentication for secure data handling
+- Real-time data extraction and storage
+- Customizable sheet configuration
 
 ### 🏥 Smart Healthcare Appointment System
 - Real-time appointment booking with WebSocket integration
@@ -62,6 +84,7 @@ React-based application with distributed storage
 - Web scraping with Scrapy
 - Real-time search functionality
 - Hybrid database architecture (SQL + NoSQL)
+  
 
 ## 🌱 Currently Learning
 
@@ -97,6 +120,7 @@ React-based application with distributed storage
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/senthamarai-kannan-dhanavel)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SenthamaraiKannan-Dhanavel)
+[![My Website](https://img.shields.io/badge/My%20Website-228B22?style=for-the-badge)](https://senthamaraikannan-dhanavel.github.io/)
   
 </div>
 
