@@ -108,11 +108,13 @@ React-based application with distributed storage
 
 > "The only way to do great work is to love what you do" 🚀
 
+<!--
 ## 📈 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SenthamaraiKannan-Dhanavel&theme=dark" alt="GitHub Streak"/>
 </div>
+-->
 
 ## 🤝 Let's Connect!
 
