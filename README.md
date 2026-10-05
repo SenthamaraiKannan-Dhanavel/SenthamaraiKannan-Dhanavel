@@ -122,7 +122,6 @@ React-based application with distributed storage
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/senthamarai-kannan-dhanavel)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SenthamaraiKannan-Dhanavel)
-[![My Website](https://img.shields.io/badge/My%20Website-228B22?style=for-the-badge)](https://senthamaraikannan-dhanavel.github.io/)
   
 </div>
 
