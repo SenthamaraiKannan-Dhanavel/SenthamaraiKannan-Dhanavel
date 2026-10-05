@@ -1,122 +1,52 @@
-# 👋 Hello World, I'm Senthamarai Kannan! 
+# Hello World, I'm Senthamarai Kannan
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&width=435&lines=Full+Stack+Developer+%7C+Problem+Solver+%7C;Tech+Enthusiast+%7C+Always+Learning" alt="Typing SVG" />
 </div>
 
-## 🚀 About Me
+## Professional Summary
 
-- 🎓 MS in Computer Science @ UTSA
-- 🌱 Currently exploring Next.js, TypeScript & Django
-- 🎯 Love building user-friendly, scalable applications
-- 💡 Believe in writing clean, efficient code
+- Master of Science in Computer Science, The University of Texas at San Antonio (UTSA)
+- Full Stack Developer specializing in scalable web systems, distributed architectures, and cloud deployments
+- Experienced in building end-to-end solutions using modern front-end frameworks, robust back-end systems, and automated CI/CD pipelines
+- Committed to writing clean, maintainable, and well-tested software
 
-## 🛠️ Tech Stack 
+## Technical Skills
 
-```javascript
-const SenthamaraiKannan = {
-    core: {
-        languages: ["🐍 Python", "⚡ JavaScript", "💪 TypeScript", "☕ Java", "📜 JavaScript (ES6+)"],
-        web: ["📄 HTML", "🎨 CSS", "📊 SQL", "🌐 HTML5", "🎨 CSS3"],
-        systems: ["⚙️ C", "🔌 C++"]
-    },
-    
-    frontend: {
-        frameworks: ["⚛️ React", "▲ Next.js", "🅰️ Angular"],
-        styling: ["🌊 Tailwind CSS", "🎯 Bootstrap"],
-        libraries: ["📊 D3.js", "🎯 jQuery", "🔄 Axios", "🔄 Redux"]
-    },
-    
-    backend: {
-        frameworks: ["🎯 Django", "🟢 Node.js", "🚂 Express", "🍃 Spring Boot"],
-        tools: ["🥬 Celery", "☕ Mocha"],
-        scraping: ["🕷️ Scrapy"],
-        apis: ["🌐 RESTful APIs", "🔗 GraphQL"]
-    },
-    
-    data: {
-        sql: ["🐘 PostgreSQL", "🐬 MySQL"],
-        nosql: ["🍃 MongoDB", "🔴 Redis"],
-        big_data: ["🐘 Hadoop"]
-    },
-    
-    devOps: {
-        containers: ["🐳 Docker", "☸️ Kubernetes"],
-        cicd: ["🌿 Git", "🎯 Jira", "🔄 Jenkins", "🏗️ Terraform", "🔄 CircleCI", "🔄 CI/CD"],
-        testing: ["📬 Postman", "🔨 JMeter", "🔒 Burp Suite", "🧪 JUnit", "🃏 Mockito", "🃏 Jest", "🌐 Selenium", "🥒 Cucumber"],
-        cloud: ["☁️ AWS (EC2, S3, RDS, Lambda)"]
-    },
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Languages** | Python, JavaScript (ES6+), TypeScript, Java, C, C++, SQL, HTML5, CSS3 |
+| **Frontend Development** | React, Next.js, Angular, Redux, Tailwind CSS, Bootstrap, D3.js, Axios, jQuery |
+| **Backend & APIs** | Django, Node.js, Express, Spring Boot, RESTful APIs, GraphQL, Celery, Scrapy |
+| **Databases & Storage** | PostgreSQL, MySQL, MongoDB, Redis, Hadoop |
+| **Cloud & DevOps** | AWS (EC2, S3, RDS, Lambda), Docker, Kubernetes, Terraform, Jenkins, CircleCI, CI/CD Pipelines |
+| **Testing & Quality** | Jest, Mocha, JUnit, Mockito, Selenium, Cucumber, JMeter, Postman, Burp Suite |
+| **Tools & Platforms** | Git, GitHub, Maven, Jira, Trello, VS Code |
 
-    projectManagement: {
-        tools: ["🎯 JIRA", "📋 Trello"]
-    },
+## Featured Projects
 
-    versionControl: {
-        tools: ["🐙 GitHub", "🌿 Git"]
-    },
+### Job Info Extractor
+- Developed a lightweight Chrome extension that extracts structured recruitment data directly from job boards.
+- Integrated Google Sheets API and OAuth 2.0 authentication to enable secure, real-time data persistence.
+- Added customizable extraction parameters to streamline personal job tracking workflows.
 
-    buildTools: {
-        tools: ["🏗️ Maven"]
-    },
+### Smart Healthcare Appointment System
+- Engineered a real-time clinical appointment booking platform using Django, Angular, and WebSocket protocols.
+- Reduced scheduling conflicts and system bottlenecks using asynchronous task queues managed by Redis and Celery.
+- Containerized microservices using Docker and orchestrated deployment configurations with Kubernetes.
 
-    editor: "💻 VS Code ⚡",
-    motto: "✨ Clean code is not written by chance. 🎯"
-}
-```
+### Movie Search Engine
+- Built a high-performance search application powered by React and hybrid database architecture (SQL and NoSQL).
+- Implemented automated web-scraping pipelines using Scrapy to aggregate comprehensive entertainment datasets.
+- Optimized query response times and data indexing to support instant filtering and retrieval.
 
+## Professional Focus & Continuous Learning
 
-## 🔥 Recent Projects
+- **System Design & Architecture:** Scalability patterns, clean architecture, and modular system decoupling.
+- **Automated Testing & Security:** Test-driven development (TDD), end-to-end testing with Selenium, and vulnerability analysis.
+- **DevOps & Infrastructure:** GitHub Actions pipeline orchestration and cloud resource provisioning via Terraform.
 
-### 🔍 Job Info Extractor
-- Chrome extension for extracting job data from websites
-- Seamless integration with Google Sheets API
-- OAuth2 authentication for secure data handling
-- Real-time data extraction and storage
-- Customizable sheet configuration
-
-### 🏥 Smart Healthcare Appointment System
-- Real-time appointment booking with WebSocket integration
-- Scalable architecture using Django, Angular.js, Redis & Celery
-- Containerized with Docker & Kubernetes
-
-### 🎬 Movie Search Engine
-React-based application with distributed storage
-- Web scraping with Scrapy
-- Real-time search functionality
-- Hybrid database architecture (SQL + NoSQL)
-  
-
-## 🌱 Currently Learning
-
-- 🏗️ Software Architecture
-  - Design Patterns
-  - Clean Architecture
-- 🧪 Testing Best Practices
-  - Unit Testing
-  - Integration Testing
-- ⚡ Performance Optimization
-  - Code Profiling
-  - Memory Management
-- 🔄 CI/CD Practices
-  - GitHub Actions
-  - Automated Deployments
-
-## ⚡ Fun Facts
-- 🌟 Turned a 2-hour manual process into a 2-minute automated task
-- 🔧 Love exploring new tech gadgets
-- 🤖 Passionate about AI advancements and always experimenting with new ML tools
-
-> "The only way to do great work is to love what you do" 🚀
-
-<!--
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SenthamaraiKannan-Dhanavel&theme=dark" alt="GitHub Streak"/>
-</div>
--->
-
-## 🤝 Let's Connect!
+## Connect With Me
 
 <div align="center">
   
@@ -127,7 +57,5 @@ React-based application with distributed storage
 
 ---
 <div align="center">
-  <i>💡 Open to collaborating on innovative projects! Let's build something amazing together!</i>
-  <br><br>
-  <i>✨ Always open to interesting conversations and collaboration opportunities! Feel free to reach out!</i>
+  Open to full-time Software Engineering roles, collaborative technical projects, and professional discussions.
 </div>
